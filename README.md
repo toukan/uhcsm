@@ -21,6 +21,10 @@ No.
 
 Might work on any, only tested on 1.7+ though.
 
+**What scenarios are available?**
+
+[Tadaa](scenarios.txt).
+
 **Can you port _x_ scenario?**
 
 Yes.
@@ -28,3 +32,9 @@ Yes.
 **Can I create a scenario?**
 
 Yes! See below.
+
+### Support
+
+I don't want any money, just a thank you.
+
+Hope you all get good use out of this.
