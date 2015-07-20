@@ -1,1 +1,3 @@
-[Blood Diamonds]() - `/sm load blooddiamonds`
+Scenario | Load Command
+---------|-------------
+[Blood Diamonds]() | `/sm load blooddiamonds` 
