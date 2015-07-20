@@ -23,7 +23,7 @@ Might work on any, only tested on 1.7+ though.
 
 **What scenarios are available?**
 
-[Tadaa](scenarios.txt).
+[Tadaa](SCENARIOS.md).
 
 **Can you port _x_ scenario?**
 
